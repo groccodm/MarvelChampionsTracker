@@ -1,0 +1,54 @@
+[
+    {
+        "id": 0,
+        "name": "SpiderMan - Peter Parker",
+        "health": 10,
+        "Sides": 
+        {
+            "Hero": 
+            {
+                "name" : "SpiderMan",
+                "imageUrl":"test.png",
+                "handSize":5,
+                "thwarth": 1,
+                "attack": 2,
+                "defense": 3,
+                "ability": "testAbility"
+            },
+            "Alter Ego":
+            {
+                "name": "Peter Parker",
+                "imageUrl": "test.png",
+                "handSize":6,
+                "recovery":3,
+                "ability": "testAbility"
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name": "IronMan - Tony Stark",
+        "health": 9,
+        "Sides": 
+        {
+            "Hero": 
+            {
+                "name" : "IronMan",
+                "imageUrl":"test.png",
+                "handSize":1,
+                "thwarth": 2,
+                "attack": 1,
+                "defense": 1,
+                "ability": "testAbility"
+            },
+            "Alter Ego":
+            {
+                "name": "Tony Stark",
+                "imageUrl": "test.png",
+                "handSize":6,
+                "recovery":3,
+                "ability": "testAbility"
+            }
+        }
+    }
+]
