@@ -50,5 +50,35 @@
                 "ability": "testAbility"
             }
         }
+    },
+    {
+        "id": 2,
+        "name": "Captain Marvel - Carol Danvers",
+        "health": 12,
+        "Sides": 
+        {
+            "Hero": 
+            {
+                "name" : "Captain Marvel",
+                "imageUrl":"https://hallofheroeshome.files.wordpress.com/2019/12/carol0b.jpg",
+                "handSize":5,
+                "thwarth": 2,
+                "attack": 2,
+                "defense": 1,
+                "ability": "<i>Rechannel</i> -- <b>Action</b>: Spend a Energy resource and heal 1 damage -> draw 1 card. (Limit once per round.)",
+                "tagLine": "<i>I never quit</i>",
+                "traits": "Avenger. Soldier."
+            },
+            "Alter Ego":
+            {
+                "name": "Carol Danvers",
+                "imageUrl": "https://hallofheroeshome.files.wordpress.com/2019/12/carol0a.jpg",
+                "handSize":6,
+                "recovery":4,
+                "ability": "<i>Commander</i> -- <b>Action</b>: Choose a player to draw 1 card. (Limit once per round.)",
+                "traits": "S.H.I.E.L.D. Soldier.",
+                "tagLine": "<i>It's my job to protect the Earth and everyone on it.</i>"
+            }
+        }
     }
 ]

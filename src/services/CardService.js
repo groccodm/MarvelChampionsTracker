@@ -1,7 +1,7 @@
 import Heroes from "../data/heroes.json";
 import Villains from "../data/villains.json";
 
-export default class CharacterService {
+export default class CardService {
     get(type)
     {
         switch (type) {
